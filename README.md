@@ -3,8 +3,6 @@
 # Статистика
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxstepashka&theme=default&show_icons=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxstepashka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 # Контактная информация
 1) email: stepanovmax9@yandex.ru
 <!---

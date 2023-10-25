@@ -1,9 +1,9 @@
 # maxstepashka
-Глава организации по разработке ПО с открытым кодом Alpha Software Development, создатель графической оболочки "ChatShell" и голосового ассистента "Альфа".
+Глава организации по разработке ПО с открытым кодом Alpha Software Developement, создатель графической оболочки "ChatShell" и голосового ассистента "Альфа".
 ![screenshot](https://github.com/maxstepashka/maxstepashka/blob/335e01b659ba3edf816f52dcbe898bb4819c420e/Alpha_software_development_logo.png)
 
 Логотип Alpha Software Development
-# Проекты Alpha Software Development
+# Проекты Alpha Software Developement
 1) Голосовой ассистент "Альфа"
 2) Графическая оболочка "ChatShell"
 3) Програмный модуль "AutoInstall"

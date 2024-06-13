@@ -1,5 +1,4 @@
 # maxstepashka
-Глава организации по разработке ПО с открытым кодом Alpha Software Development, создатель графической оболочки "ChatShell" и голосового ассистента "Альфа".
 # Статистика
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxstepashka&theme=default&show_icons=false)
 
